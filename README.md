@@ -39,9 +39,9 @@ Boas práticas, organização de código e lógica de programação
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
-<img align="left" alt="Prisma" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/prisma/prisma.png" />
+<img align="left" alt="Prisma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jest/jest.png" />
+<img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 
 <br />
 <br />
