@@ -3,6 +3,7 @@
 ### Eu sou a Tainara, uma desenvolvedora web formada pelo curso de Desenvolvimento Web Full Stack da Driven. Estou no início de uma nova carreira e realizada de ter me encontrado nesse mundo da Tecnologia. Essa foi a escolha mais desafiadora e certeira da minha trajetória profissional.
 
 - 🔭 Durante a formação, desenvolvi projetos front-end e back-end, trabalhando com:
+- 
 🔹 Front-end: HTML, CSS, JavaScript, React
 🔹 Back-end: Node.js, Express, TypeScript, Prisma
 🔹 Banco de Dados: PostgreSQL
